@@ -271,7 +271,7 @@ npm run dev
 
 # 👩‍💻 Team
 
-- CodeCuisine AI
+- One.Build
 
 **Developer:**
 - Thanusha Muthu M
