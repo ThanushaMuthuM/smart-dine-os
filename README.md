@@ -164,26 +164,6 @@ smart-dine-os/
 
 ---
 
-# 📸 Screenshots
-
-## Landing Page
-
-(Add Screenshot)
-
-## Customer Dashboard
-
-(Add Screenshot)
-
-## AI Food Assistant
-
-(Add Screenshot)
-
-## Restaurant Dashboard
-
-(Add Screenshot)
-
----
-
 # 📊 User Stories Completed
 
 ## ✅ Bronze
